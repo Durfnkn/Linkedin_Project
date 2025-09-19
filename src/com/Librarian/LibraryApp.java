@@ -12,7 +12,7 @@ public class LibraryApp {
         library.addStudent(new Student(101, "Saurabh Pal"));
         library.addStudent(new Student(102, "Masume"));
         library.addBook(new Book(201, "Java OOP", "James Gosling"));
-        library.addBook(new Book(202, "Effective Java", "Joshua Bloch"));
+        library.addBook(new Book(202, "Effective J+ava", "Joshua Bloch"));
         library.addBook(new Book(203, "Head First Java", "Kathy Sierra"));
 
         int choice;
